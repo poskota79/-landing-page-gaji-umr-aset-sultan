@@ -1,9 +1,9 @@
 # landing-page-gaji-umr-aset-sultan
 
-Halaman pengalihan (redirect) untuk buku **"GAJI UMR, ASET SULTAN — Cara 'Curang' Melawan Inflasi Tanpa Mengorbankan Masa Muda"** karya Gito Sujiwo.
+Landing page penjualan buku **"GAJI UMR, ASET SULTAN — Cara 'Curang' Melawan Inflasi Tanpa Mengorbankan Masa Muda"** karya Gito Sujiwo.
 
-Pengunjung yang membuka situs ini langsung dialihkan ke halaman buku di Google Play Books:
+Pengunjung melihat halaman penjualan (hook meja makan, simulasi Andi vs Budi, isi buku), lalu membeli lewat tombol **"Beli di Google Play Books"** yang mengarah ke:
 
 https://play.google.com/store/books/details?id=xA8uEgAAQBAJ
 
-Situs diterbitkan via GitHub Pages dari branch `main`.
+Tidak ada tombol WhatsApp di halaman ini. Situs diterbitkan via GitHub Pages dari branch `main`.
